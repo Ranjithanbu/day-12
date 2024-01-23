@@ -1,0 +1,61 @@
+.star span.active{
+    color:gold;
+}
+.container{
+    background-color: aliceblue;
+    padding-left:10%;
+}
+.required{
+    color: red;
+}
+#lname{
+    border:0.1vw solid black;
+    margin-left:0.5vw;
+    border-radius: 5px;
+}
+#fname{
+    border:0.1vw solid black;
+    margin-left:0.5vw;
+    border-radius: 5px;
+}
+.move{
+    margin-left:18vw;
+    margin-top:-7vh;
+}
+#email{
+    border:0.1vw solid black;
+    margin-left:0.5vw;
+    margin-bottom:0.5vw;
+    border-radius: 5px;
+    width:33.5vw;
+}
+.you{
+    
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+.p3{
+    margin-top: 0.5vw;
+    margin-bottom: 1.5vw;
+}
+.tcol{
+    background-color: lightseagreen;
+}
+.t1{
+    width:50vw;
+    text-align: center;
+}
+.how{
+    margin-top:2vw;
+}
+textarea{
+    width:50vw;
+    border:2px solid black;
+    border-radius:5px;
+}
+button{
+    margin-top:1vw;
+    background-color: blueviolet;
+    border-radius: 10px;
+    border:none
+}
